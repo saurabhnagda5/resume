@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>My Resume</title>
   </head>
   <body>
     <h1>Name</h1>
