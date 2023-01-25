@@ -2,56 +2,7 @@
 <html>
   <head>
   </head>
-  <body> {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-}
-
-h1, h2, h3 {
-  margin: 0;
-  padding: 0;
-}
-
-h1 {
-  font-size: 2em;
-  font-weight: bold;
-  text-align: center;
-  margin-bottom: 20px;
-}
-
-h2 {
-  font-size: 1.5em;
-  font-weight: bold;
-  margin-top: 40px;
-  margin-bottom: 20px;
-}
-
-h3 {
-  font-size: 1.2em;
-  font-weight: bold;
-  margin-top: 20px;
-  margin-bottom: 10px;
-}
-
-p {
-  font-size: 1em;
-  margin: 0;
-  padding: 0;
-  margin-bottom: 10px;
-}
-
-ul {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
-li {
-  font-size: 1em;
-  margin-bottom: 10px;
-}
-
+  <body>
     <h1>Name</h1>
     <p>Contact Information:</p>
     <ul>
